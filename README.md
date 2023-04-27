@@ -1,6 +1,6 @@
 ## Kees de Keijzer
 
-[pagina2](pagina2)
+[pagina2](pagina2) | [pagina3](pagina3)
 
 ### Markdown
 
