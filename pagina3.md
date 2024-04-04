@@ -1,4 +1,4 @@
-<style>
+n extra regel<style>
   .page-header {
   color: white;
   text-align: center;
@@ -13,5 +13,6 @@ Er is een style gedeelte aanwezig.
 
 Slechts drie pagina's, is dat wel genoeg?
 
+Een extra regel.
 
 [terug](./)
