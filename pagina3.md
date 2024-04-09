@@ -1,4 +1,4 @@
-n extra regel<style>
+Een extra regel<style>
   .page-header {
   color: white;
   text-align: center;
